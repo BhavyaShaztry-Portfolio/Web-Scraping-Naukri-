@@ -1,6 +1,6 @@
 # Naukri-Web-Scraping
 
-Naukri Web Scraping is the project based on scraping jobs post related to any domains and their details. It also analyse scraped data.
+Naukri Web Scraping is a project based on scraping jobs post related to data science domain and their details. It also analyzes scraped data.
 
 # Installation
 
